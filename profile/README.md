@@ -63,7 +63,7 @@ Key advantages include:
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/zB32WgWg/3dprinteros-dashboard.jpg" alt="3DPrinterOS Cloud Dashboard" width="720">
+  <img src="https://www.3printr.com/wp-content/uploads/2015/03/3dprinterOS.jpg" alt="3DPrinterOS Cloud Dashboard" width="720">
 </p>
 
 ---
@@ -91,7 +91,7 @@ Key advantages include:
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/hvZbDLFS/3dprinteros-slicing.jpg" alt="Browser-Based Cloud Slicer in 3DPrinterOS" width="700">
+  <img src="https://www.makepartsfast.com/wp-content/uploads/2015/04/3DPrinterOS-STL-Editor.png" alt="Browser-Based Cloud Slicer in 3DPrinterOS" width="700">
 </p>
 
 ---
